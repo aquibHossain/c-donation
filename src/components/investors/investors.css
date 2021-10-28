@@ -1,0 +1,14 @@
+.inverstors{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 5px 15px;
+    margin-top: 35px;
+}
+.investor{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+}
+.fund-part{
+    margin-left: 20px;
+}
